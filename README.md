@@ -1,5 +1,6 @@
 # Unity_mini_project
-Billiards game
+Implementing Unity-based billiard games
+
 ※ 구현 ※
 1. 당구장 환경 구성 및 서브 뷰 제공
   · 실감 나는 당구장 환경 구현.
